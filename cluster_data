@@ -1,0 +1,18 @@
+All values are total time (if we need average just divide by num processes)
+16 processes, 4 hosts
+1.14
+1.27
+3.13
+1.13
+
+8 processes, 4 hosts
+0.89210719
+0.87242287
+0.8773738
+0.85555476
+
+4 processes, 4 hosts
+0.5119449
+0.5274369
+0.4678356
+0.4771602
