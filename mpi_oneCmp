@@ -1,0 +1,27 @@
+Evaluating the results...
+
+Generating the testing data...
+There are 1112 nodes and 208960 edges in the sub dataset including the added edges for the nodes with no outgoing links. 
+SAMPLE 5300
+1 threads
+	Time of calculation: 0.014296
+	Time of calculation: 0.014361
+	Time of calculation: 0.014304
+
+4 threads
+	Time of calculation: 0.004197
+	Time of calculation: 0.004059
+	Time of calculation: 0.005238
+
+Generating the testing data...
+There are 5424 nodes and 3629571 edges in the sub dataset including the added edges for the nodes with no outgoing links. 
+SAMPLE 13000
+1 threads
+	Time of calculation: 0.257898
+	Time of calculation: 0.258049
+	Time of calculation: 0.258017
+
+4 threads
+	Time of calculation: 0.073686
+	Time of calculation: 0.071243
+	Time of calculation: 0.071262
