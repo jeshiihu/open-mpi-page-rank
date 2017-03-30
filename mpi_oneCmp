@@ -1,3 +1,4 @@
+================ LINUX Times ================
 Evaluating the results...
 
 Generating the testing data...
@@ -25,3 +26,37 @@ SAMPLE 13000
 	Time of calculation: 0.073686
 	Time of calculation: 0.071243
 	Time of calculation: 0.071262
+
+
+================ MAC Times ================
+Evaluating the results...
+
+Generating the testing data...
+There are 1112 nodes and 208960 edges in the sub dataset including the added edges for the nodes with no outgoing links. 
+SAMPLE 5300
+1 threads
+	Time of calculation: 0.080690
+	Time of calculation: 0.088455
+	Time of calculation: 0.087671
+
+4 threads
+	Time of calculation: 0.039189
+	Time of calculation: 0.057246
+	Time of calculation: 0.055189
+
+Generating the testing data...
+There are 5424 nodes and 3629571 edges in the sub dataset including the added edges for the nodes with no outgoing links. 
+SAMPLE 13000
+1 threads
+	Time of calculation: 1.586205
+	Time of calculation: 1.972281
+	Time of calculation: 1.878924
+
+4 threads
+	Time of calculation: 0.791644
+	Time of calculation: 1.220665
+	Time of calculation: 1.209791
+
+
+
+
